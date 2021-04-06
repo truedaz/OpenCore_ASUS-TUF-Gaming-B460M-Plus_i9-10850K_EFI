@@ -2,7 +2,7 @@
 
 
 
-# ASUS TUF Gaming B460 Plus i9-10850K Vanilla Opencore Hackintosh Build. OS Big Sur.
+# ASUS TUF Gaming B460 Plus (Wi-Fi) | i9-10850K Vanilla Opencore Hackintosh Build | OS Big Sur.
 OpenCore configuration for ASUS TUF Gaming B460M-Plus, Intel core i9 i9-10850K. Vanilla configuration with no additional wi-fi/ bluetooth or video card.
 I highly recommend learning how to build your own EFI folder by following the detailing guide from Dortania although this may give you a good starting position or reference. 
 Just know you dont need to buy additional WI-FI / Bluetooth / Audio or video cards to get Big Sur working - yo can achieve it all from the mobo.
