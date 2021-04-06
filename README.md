@@ -40,6 +40,11 @@ Just know you dont need to buy additional WI-FI / Bluetooth / Audio or video car
 |✅  | Bluetooth |
 
 
+![Audio](/images/main.png "Audio")
+![Audio](/images/audio-by-displayport.png "Audio")
+![Audio](/images/wifi.png "Audio")
+
+
 # Guide
 This repo is my journey to get my Hackintosh working... which took weeks. Hopefully it will help you achieve your Hackintosh too. 
 
