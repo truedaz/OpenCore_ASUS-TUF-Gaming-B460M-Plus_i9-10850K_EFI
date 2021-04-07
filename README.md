@@ -19,7 +19,7 @@ Just know you dont need to buy additional WI-FI / Bluetooth / Audio or video car
 | Audio      | Realtek S1200A codec     | on board |
 | Ethernet      | Intel® I219-V 1Gb Ethernet | on board |
 | WiFi      | Intel® Wi-Fi 6 AX200     | on board |
-|RAM      | Crucial Ballistix BL2K32G32C16U4B 3200 MHz, DDR4, DRAM |
+| RAM      | Crucial Ballistix BL2K32G32C16U4B 3200 MHz, DDR4, DRAM |
 | SSD | Crucial MX300 CT1050MX300SSD1 1 TB Internal SSD |
 | Profile |  iMac20,2 |
 | MacOS | Big Sur|
@@ -48,7 +48,7 @@ Just know you dont need to buy additional WI-FI / Bluetooth / Audio or video car
 # Guide
 This repo is my journey to get my Hackintosh working... which took weeks. Hopefully it will help you achieve your Hackintosh too. 
 
-## Referenc links:
+## Reference links:
 - [EPI Repo ](https://github.com/akarsh1995/ASUS-TUF-Gaming-B460-Plus-i5-10400-Opencore-Hackintosh-Build).
 - [EPI Repo ](https://github.com/sutsurup/MSI-Hackintosh-Build).
 - [helpful post ](https://www.tonymacx86.com/threads/success-i5-10400-tuf-b460m-gaming-plus-rx5700-opencore.299418/).
